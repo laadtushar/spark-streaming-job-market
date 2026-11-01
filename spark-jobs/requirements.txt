@@ -1,2 +1,2 @@
-redis==5.0.1
-pyspark==3.5.0
+redis==5.0.8
+pyspark==3.5.9
